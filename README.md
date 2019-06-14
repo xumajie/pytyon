@@ -1,1 +1,2 @@
 # pytyon
+## python速查
